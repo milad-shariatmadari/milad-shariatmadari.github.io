@@ -8,6 +8,7 @@ name:
   family: Shariatmadari
   alternate: ''
   pronunciation: ''
+  pronouns: he/him
 
 status:
   icon: ""
@@ -15,14 +16,12 @@ status:
 role: PhD Researcher in Linguistics
 
 bio: |
-  bio: >
-  I am a linguist specializing in language variation and change from a
-  usage-based perspective. My research combines quantitative linguistics,
-  corpus studies, statistical modeling, and experimental approaches to
-  investigate the relationship between language use, structure, and change.
-  My main research interests include word order variation, the
-  syntax–semantics interface, complex predicates, grammaticalization,
-  language contact, and the languages of West Asia and the Caucasus.
+  Milad Shariatmadari is a linguist specializing in language variation and
+  change from a usage-based perspective. His research combines quantitative
+  linguistics, corpus studies, statistical modeling, and experimental
+  approaches. His main research interests include word order variation,
+  complex predicates, grammaticalization, and the languages of West Asia
+  and the Caucasus.
 
 affiliations:
   - name: LATTICE (CNRS / ENS-PSL / Sorbonne Nouvelle)
@@ -34,10 +33,10 @@ links:
     label: E-mail Me
 
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=EEaKTdUAAAAJ&hl=en&oi=ao
 
   - icon: brands/github
-    url: https://github.com/
+    url: https://github.com/milad-shariatmadari
 
 interests:
   - Word Order Variation
@@ -51,8 +50,8 @@ interests:
 education:
   - degree: PhD in Linguistics
     institution: Sorbonne Nouvelle University
-    start: 2020-09-01
-    end: 2025-09-30
+    start: 2020
+    end: 2025
     summary: |
       Dissertation: "A Usage-based Approach to Word Order Variation and
       Change: The Case of Non-core Arguments"
@@ -60,29 +59,29 @@ education:
 
   - degree: MA in Linguistics
     institution: Allameh Tabataba'i University
-    start: 2014-09-01
-    end: 2017-09-30
+    start: 2014
+    end: 2017
     summary: |
       Thesis: "Conceptual Mappings in Persian Verbs"
       Supervisor: Prof. Kourosh Safavi
 
   - degree: BA in English Translation and Interpretation
     institution: Zand Institute of Higher Education
-    start: 2010-09-01
-    end: 2014-06-30
+    start: 2010
+    end: 2014
 
 experience:
   - role: Researcher
     org: LATTICE – Languages, Texts, Computer Processing and Cognition (CNRS)
-    start: 2022-01-01
+    start: 2022
     summary: |
       Conducting research on usage-based syntax, word order variation,
       and Iranian linguistics within the LATTICE laboratory.
 
   - role: Research Associate
     org: CeRMI – Center for Research on the Iranian World
-    start: 2019-01-01
-    end: 2022-12-31
+    start: 2019
+    end: 2022
     summary: |
       Participated in research projects related to Iranian languages,
       corpus linguistics, and complex predicates.
@@ -92,22 +91,16 @@ skills:
     items:
       - label: R / RStudio
         level: 4
-      - label: Statistical Modeling
-        level: 4
-      - label: Corpus Linguistics
-        level: 5
       - label: Python
         level: 3
 
   - name: Research & Academic Skills
     items:
-      - label: Academic Writing
+      - label: Data Analysis
         level: 5
-      - label: Conference Presentations
-        level: 5
-      - label: Linguistic Annotation
-        level: 4
       - label: Data Visualization
+        level: 5
+      - label: Statistical Modeling
         level: 4
 
 languages:
@@ -124,24 +117,24 @@ languages:
     label: Advanced
 
   - name: Kurdish
-    level: 4
-    label: Advanced
+    level: 3
+    label: Intermediate
 
 awards:
   - title: Contrat doctoral CNRS International
     awarder: CNRS
-    date: "2019-01-01"
+    date: "2019–2022"
     summary: Awarded a fully funded international doctoral contract by CNRS.
     icon: hero/academic-cap
 
   - title: Scholarship – The Emergence and Cognitive Status of Language Universals
     awarder: Sorbonne Université / CNRS
-    date: "2024-09-12"
+    date: "2024"
     summary: Fully funded scholarship for the international summer school on language universals.
     icon: hero/trophy
 
   - title: ELDP Scholarship – Fall School on Documentary Linguistics
     awarder: SOAS University of London / ELDP
-    date: "2018-10-10"
+    date: "2018"
     summary: Fully funded scholarship for the Fall School on Documentary Linguistics in the MENA region.
     icon: hero/trophy
