@@ -10,17 +10,19 @@ name:
   pronunciation: ''
 
 status:
-  icon: "☕️"
+  icon: ""
 
 role: PhD Researcher in Linguistics
 
 bio: |
-  Milad Shariatmadari is a linguist specializing in language variation and
-  change from a usage-based perspective. His research combines quantitative
-  linguistics, corpus studies, statistical modeling, and experimental
-  approaches. His main research interests include word order variation,
-  complex predicates, grammaticalization, and the languages of West Asia
-  and the Caucasus.
+  bio: >
+  I am a linguist specializing in language variation and change from a
+  usage-based perspective. My research combines quantitative linguistics,
+  corpus studies, statistical modeling, and experimental approaches to
+  investigate the relationship between language use, structure, and change.
+  My main research interests include word order variation, the
+  syntax–semantics interface, complex predicates, grammaticalization,
+  language contact, and the languages of West Asia and the Caucasus.
 
 affiliations:
   - name: LATTICE (CNRS / ENS-PSL / Sorbonne Nouvelle)
