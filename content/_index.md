@@ -21,7 +21,7 @@ sections:
 
       headings:
         about: ''
-        education: false
+        education: ''
         interests: ''
 
     design:
