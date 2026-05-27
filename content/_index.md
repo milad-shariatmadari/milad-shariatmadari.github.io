@@ -21,7 +21,6 @@ sections:
 
       headings:
         about: ''
-        education: false
         interests: ''
 
     design:
