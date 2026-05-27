@@ -45,9 +45,17 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?user=EEaKTdUAAAAJ&hl=en&oi=ao
 
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0009-0006-6593-499X
+
+  - icon: hal
+    icon_pack: ai
+    link: https://hal.science/search/index/q/*/authIdHal_s/miladshariatmadari
+
   - icon: github
     icon_pack: fab
-    link: https://milad-shariatmadari.github.io?utm_source=chatgpt.com
+    link: https://github.com/milad-shariatmadari
 
 superuser: true
 ---
