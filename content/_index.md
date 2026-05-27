@@ -8,7 +8,7 @@ type: landing
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
+      # Choose a user profile to display
       username: me
 
       # Optional text below biography
@@ -21,7 +21,7 @@ sections:
 
       headings:
         about: ''
-        education: ''
+        education: false
         interests: ''
 
     design:
