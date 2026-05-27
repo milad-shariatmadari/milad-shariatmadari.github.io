@@ -1,0 +1,4 @@
+---
+title: News
+type: blog
+---
