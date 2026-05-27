@@ -7,18 +7,10 @@ main:
     url: experience/
     weight: 20
 
-  - name: Publications and Presentations
-    url: /#papers
-    weight: 30
-
   - name: Projects
     url: projects/
-    weight: 40
-
-  - name: Courses
-    url: courses/
-    weight: 50
+    weight: 30
 
   - name: News
     url: /#news
-    weight: 60
+    weight: 40
