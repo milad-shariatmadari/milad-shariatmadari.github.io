@@ -1,28 +1,24 @@
 main:
-  - name: Bio
+  - name: About
     url: /
     weight: 10
 
-  - name: Experience
+  - name: Institutional Experience
     url: experience/
-    weight: 11
+    weight: 20
 
-  - name: Papers
+  - name: Publications and Presentations
     url: /#papers
-    weight: 12
-
-  - name: Talks
-    url: /#talks
-    weight: 13
-
-  - name: News
-    url: /#news
-    weight: 14
+    weight: 30
 
   - name: Projects
     url: projects/
-    weight: 30
+    weight: 40
 
   - name: Courses
     url: courses/
-    weight: 40
+    weight: 50
+
+  - name: News
+    url: /#news
+    weight: 60
