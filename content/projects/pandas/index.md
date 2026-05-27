@@ -4,22 +4,23 @@ date: 2024-01-01
 
 links:
   - type: site
-    url: https://www.lattice.cnrs.fr/
+    url: https://web.archive.org/web/20151022152801/http://www.iran-inde.cnrs.fr/spip.php?article470
 
 tags:
-  - Persian Linguistics
-  - Corpus Linguistics
   - Complex Predicates
+  - Persian verbs
+  - Corpus Linguistics
+  - Database
   - Syntax
   - Semantics
-  - Database
+  
 ---
 
 PersPred (version 2.0) is an online multilingual syntactic and semantic
 database for Persian Complex Predicates containing nearly 5,000 entries.
 The project is coordinated by Pollet Samvelian (editor) and Milad
 Shariatmadari (co-editor), in collaboration with the Labex Empirical
-Foundations of Linguistics (financed by the ANR-DFG) (2024–present).
+Foundations of Linguistics.
 
 The corpus includes 20 types of tags encoding lexical, syntactic, and
 semantic information. Nine fields provide information on the lemma of
