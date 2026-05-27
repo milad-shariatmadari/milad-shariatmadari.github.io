@@ -89,7 +89,7 @@ experience:
 skills:
   - name: Quantitative & Computational Methods
     items:
-      - label: R / RStudio
+      - label: R
         level: 4
       - label: Python
         level: 3
