@@ -29,7 +29,7 @@ education:
       year: 2025
 
     - course: MA in Linguistics
-      institution: Allameh Tabataba'i University
+      institution: Allameh Tabata'i University
       year: 2017
 
     - course: BA in English Translation and Interpretation
@@ -37,25 +37,17 @@ education:
       year: 2014
 
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:milad.shariatmadari@sorbonne-nouvelle.fr
-
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=EEaKTdUAAAAJ&hl=en&oi=ao
 
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://hal.science/search/index/q/*/authIdHal_s/miladshariatmadari
+
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0009-0006-6593-499X
-
-  - icon: hal
-    icon_pack: ai
-    link: https://hal.science/search/index/q/*/authIdHal_s/miladshariatmadari
-
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/milad-shariatmadari
 
 superuser: true
 ---
