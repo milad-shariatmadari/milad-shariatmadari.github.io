@@ -16,6 +16,7 @@ tags:
   - Linguistic Atlas
   - Areal Typology
   - Digital Humanities
+
 ---
 
 The Iranian Languages Depository (ILD) is a collection of interactive

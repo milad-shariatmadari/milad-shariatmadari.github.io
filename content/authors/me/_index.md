@@ -22,20 +22,6 @@ interests:
   - Language Production and Processing
   - Grammaticalization
 
-education:
-  courses:
-    - course: PhD in Linguistics
-      institution: Sorbonne Nouvelle University
-      year: 2025
-
-    - course: MA in Linguistics
-      institution: Allameh Tabata'i University
-      year: 2017
-
-    - course: BA in English Translation and Interpretation
-      institution: Zand Institute of Higher Education
-      year: 2014
-
 social:
   - icon: google-scholar
     icon_pack: ai
