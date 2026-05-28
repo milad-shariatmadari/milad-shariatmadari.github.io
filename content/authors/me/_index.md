@@ -12,13 +12,6 @@ organizations:
   - name: LATTICE profile (CNRS / ENS-PSL / Sorbonne Nouvelle)
     url: https://www.lattice.cnrs.fr/membres/anciens-membres/milad-shariatmadari/
 
-interests:
-  - Word Order Variation
-  - Syntax–Semantics Interface
-  - Areal Typology and Language Contact
-  - Language Production and Processing
-  - Grammaticalization
-
 social:
   - icon: google-scholar
     icon_pack: ai
