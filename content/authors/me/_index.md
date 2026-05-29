@@ -12,7 +12,7 @@ organizations:
   - name: LATTICE profile (CNRS / ENS-PSL / Sorbonne Nouvelle)
     url: https://www.lattice.cnrs.fr/membres/anciens-membres/milad-shariatmadari/
 
-  - name: "&nbsp;"
+  - name: ""<br>""
 
 social:
   - icon: google-scholar
