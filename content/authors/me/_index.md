@@ -8,13 +8,9 @@ bio: >
 
   He earned his Ph.D. in Linguistics from Sorbonne Nouvelle University, where his doctoral research examined word order variation and change through a usage-based approach (<a href="https://theses.fr/s232139" target="_blank">theses.fr/s232139</a>). Prior to this, he completed an M.A. in Linguistics at Allameh Tabataba'i University, focusing on conceptual mappings and metaphorical patterns in Persian verbs.
 
-organizations:
+organizations: 
   - name: LATTICE profile (CNRS / ENS-PSL / Sorbonne Nouvelle)
     url: https://www.lattice.cnrs.fr/membres/anciens-membres/milad-shariatmadari/
-
-organizations:
-  - name: ''
-    url: ''
 
 social:
   - icon: google-scholar
@@ -30,4 +26,6 @@ social:
     link: https://orcid.org/0009-0006-6593-499X
 
 superuser: true
----
+
+# extra spacing
+social_spacing: true
