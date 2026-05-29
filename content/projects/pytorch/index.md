@@ -7,7 +7,7 @@ links:
     url: https://milad-shariatmadari.github.io/ILD/
 
   - type: site
-    url: https://drive.google.com/file/d/1GCaKKpUnF0MZ0csJdO5mq7kUKMkD8-Sm/view?usp=drive_link
+    url: https://milad-shariatmadari.github.io/ILD/pmap.html
 
 
 tags:
