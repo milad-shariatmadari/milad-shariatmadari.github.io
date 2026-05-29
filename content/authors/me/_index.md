@@ -6,7 +6,7 @@ role: ''
 bio: >
   Milad Shariatmadari is a linguist specializing in language variation and change within a usage-based framework. His research integrates quantitative linguistics, corpus studies, statistical modeling, and experimental methods, with particular focus on word order variation, complex predicates, grammaticalization, and the languages of West Asia and the Caucasus.
 
-  He earned his Ph.D. in Linguistics from Sorbonne Nouvelle University, where his doctoral research examined word order variation and change through a usage-based approach. Prior to this, he completed an M.A. in Linguistics at Allameh Tabataba'i University, focusing on conceptual mappings and metaphorical patterns in Persian verbs.
+  He earned his Ph.D. in Linguistics from Sorbonne Nouvelle University, where his doctoral research examined word order variation and change through a usage-based approach (<a href="https://theses.fr/s232139" target="_blank">theses.fr/s232139</a>). Prior to this, he completed an M.A. in Linguistics at Allameh Tabataba'i University, focusing on conceptual mappings and metaphorical patterns in Persian verbs.
 
 organizations:
   - name: LATTICE profile (CNRS / ENS-PSL / Sorbonne Nouvelle)
