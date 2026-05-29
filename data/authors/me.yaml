@@ -27,15 +27,13 @@ affiliations:
 links:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=EEaKTdUAAAAJ&hl=en&oi=ao
-    label: '<span style="color:#1565c0;">Google Scholar</span>'
 
   - icon: academicons/orcid
     url: https://orcid.org/0009-0006-6593-499X
-    label: '<span style="color:#1565c0;">ORCID</span>'
 
   - icon: hero/academic-cap
     url: https://hal.science/search/index/q/*/authIdHal_s/miladshariatmadari
-    label: '<span style="color:#1565c0;">HAL</span>'
+
 
 
 
