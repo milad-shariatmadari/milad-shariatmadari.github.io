@@ -37,20 +37,30 @@ links:
 
 
 experience:
-  - role: Researcher
-    org: LATTICE – Languages, Texts, Computer Processing and Cognition (CNRS)
+  - role: Affiliated Researcher, CNRS
+    org: LATTICE – Languages, Texts, Computer Processing and Cognition
     start: 2022
     summary: |
       Conducting research on usage-based syntax, word order variation,
-      and Iranian linguistics within the LATTICE laboratory.
+      and Iranian linguistics.
 
-  - role: Research Associate
+  - role: Doctoral Researcher, CNRS
     org: CeRMI – Center for Research on the Iranian World
     start: 2019
     end: 2022
     summary: |
       Participated in research projects related to Iranian languages,
       corpus linguistics, and complex predicates.
+
+  - role: Affiliated Researcher, CGIE
+    org: Department of linguistics and Iranian studies
+    start: 2016
+    end: 2017
+    summary: |
+      Conducting research on Iranian dialectology and contributing encyclopedic entries.
+    
+  
+
 
 skills:
   - name: Quantitative & Computational Methods
