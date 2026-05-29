@@ -1,7 +1,7 @@
 ---
 title: Milad Shariatmadari
 
-role: "<br>"
+role: "&nbsp;"
 
 bio: >
   Milad Shariatmadari is a linguist specializing in language variation and change within a usage-based framework. His research integrates quantitative linguistics, corpus studies, statistical modeling, and experimental methods, with particular focus on word order variation, complex predicates, grammaticalization, and the languages of West Asia and the Caucasus.
