@@ -4,7 +4,7 @@ date: 2024-01-01
 
 links:
   - type: site
-    url: https://web.archive.org/web/20151022152801/http://www.iran-inde.cnrs.fr/spip.php?article470
+    url: https://web.archive.org/web/20201001081108/https://perspred.cnrs.fr/basic-search
 
 tags:
   - Complex Predicates
