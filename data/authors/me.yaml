@@ -26,13 +26,20 @@ affiliations:
     url: https://www.lattice.cnrs.fr/membres/anciens-membres/milad-shariatmadari/
 
 links:
+  - icon: hero/envelope
+    label: Email
+    url: mailto:milad.shariatmadari@sorbonne-novelle.fr
+
   - icon: academicons/google-scholar
+    label: Google Scholar
     url: https://scholar.google.com/citations?user=EEaKTdUAAAAJ&hl=en&oi=ao
 
   - icon: academicons/orcid
+    label: ORCID
     url: https://orcid.org/0009-0006-6593-499X
 
   - icon: hero/academic-cap
+    label: HAL
     url: https://hal.science/search/index/q/*/authIdHal_s/miladshariatmadari
 
 
