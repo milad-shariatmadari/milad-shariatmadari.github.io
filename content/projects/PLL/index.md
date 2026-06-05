@@ -3,7 +3,7 @@ title: Persian Language Learning (PLL)
 date: 2024-01-01
 links:
   - type: site
-    url: https://milad-shariatmadari.github.io/PLL/
+    url: 
 tags:
   - Old Persian
   - Middle Persian
