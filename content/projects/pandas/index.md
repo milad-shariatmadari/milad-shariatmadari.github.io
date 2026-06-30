@@ -1,6 +1,5 @@
 ---
 title: PersPred (Version 2.0)
-weight: 2
 date: 2024-01-01
 
 links:
