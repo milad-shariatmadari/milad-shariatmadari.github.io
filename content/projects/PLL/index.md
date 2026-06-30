@@ -5,7 +5,7 @@ links:
   - type: site
     url: https://milad-shariatmadari.github.io/PLL/
 tags:
-  - Old Persian
+  - Persian
   - Middle Persian
   - Modern Persian
   - Dari
